@@ -1,0 +1,17 @@
+{
+    "mint": {
+      "token_id": "1",
+      "owner": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6",
+      "extension": {
+        "name": "Archway NFT # (JUSTIN)",
+        "description": "Building With NFTs",
+        "image": "ipfs://QmZdPdZzZum2jQ7jg1ekfeE3LSz1avAaa42G6mfimw9TEn",
+        "attributes": [
+          {
+            "trait_type": "tutorial",
+            "value": "https://docs.archway.io/developers/guides/nft-project/start"
+          }
+        ]
+      }
+    }
+  }

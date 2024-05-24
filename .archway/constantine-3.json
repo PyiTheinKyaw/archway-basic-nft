@@ -1,0 +1,119 @@
+{
+  "deployments": [
+    {
+      "action": "metadata",
+      "txhash": "0284F2BFF403175644C776EDD3A2AF02083939271EBEFAFDD0BBEB5283DE397C",
+      "wasm": {
+        "codeId": 2698
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0",
+        "address": "archway10vet8zrgk35z3vmq0jwym2ntmj3c3dahevrjnvlcvgqvekes4xls3yvpr7",
+        "admin": "archway1chx339cy6yrhqt9zjfr9jn6au8ceuc68lxslwm"
+      },
+      "metadata": {
+        "contractAddress": "archway10vet8zrgk35z3vmq0jwym2ntmj3c3dahevrjnvlcvgqvekes4xls3yvpr7",
+        "ownerAddress": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6",
+        "rewardsAddress": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6",
+        "withdrawToWallet": true
+      }
+    },
+    {
+      "action": "instantiate",
+      "txhash": "5327070D563CD5B40F9BC4E56CBC78CD929BCD890E8673491B9F641566E656EF",
+      "wasm": {
+        "codeId": 2698
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0",
+        "address": "archway10vet8zrgk35z3vmq0jwym2ntmj3c3dahevrjnvlcvgqvekes4xls3yvpr7",
+        "admin": "archway1chx339cy6yrhqt9zjfr9jn6au8ceuc68lxslwm"
+      },
+      "msg": {
+        "name": "Test Collection",
+        "symbol": "NFTEST",
+        "minter": "archway1zevknscmtmletp5dn6x90vjhwk9z2297w6fdx4"
+      }
+    },
+    {
+      "action": "store",
+      "txhash": "F43D84756CEDD29EE7C426050BB338BA6A0045867535F465A79258CBF1A5748F",
+      "wasm": {
+        "codeId": 2698,
+        "checksum": "53dacd9938b7bc24450a5e860fd9c7b42052146780283835cabb4b43648ba670"
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0"
+      }
+    },
+    {
+      "action": "premium",
+      "txhash": "2CB0A8A28A63AB012B312FA4C8B37D24039F0784DAE2F9CC3E92FFEAABEAD174",
+      "wasm": {
+        "codeId": 2696
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0",
+        "address": "archway1k3sz4agjdvm2yn7jxpu604w4rpszmqfnz9ceq4dynsga50vjjq5srevhgx",
+        "admin": "archway1chx339cy6yrhqt9zjfr9jn6au8ceuc68lxslwm"
+      },
+      "flatFee": {
+        "denom": "aconst",
+        "amount": "100000000000000000"
+      }
+    },
+    {
+      "action": "metadata",
+      "txhash": "2120461408575DBD6C364330B8521AB48F997A5003AACC2DCF88C7AAD9F1E4EB",
+      "wasm": {
+        "codeId": 2696
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0",
+        "address": "archway1k3sz4agjdvm2yn7jxpu604w4rpszmqfnz9ceq4dynsga50vjjq5srevhgx",
+        "admin": "archway1chx339cy6yrhqt9zjfr9jn6au8ceuc68lxslwm"
+      },
+      "metadata": {
+        "contractAddress": "archway1k3sz4agjdvm2yn7jxpu604w4rpszmqfnz9ceq4dynsga50vjjq5srevhgx",
+        "ownerAddress": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6",
+        "rewardsAddress": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6",
+        "withdrawToWallet": true
+      }
+    },
+    {
+      "action": "instantiate",
+      "txhash": "CA28FB3917D835D4605C39E1E4B5DA1E6550CC5B914EAB2EB5347CB8C7D409C7",
+      "wasm": {
+        "codeId": 2696
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0",
+        "address": "archway1k3sz4agjdvm2yn7jxpu604w4rpszmqfnz9ceq4dynsga50vjjq5srevhgx",
+        "admin": "archway1chx339cy6yrhqt9zjfr9jn6au8ceuc68lxslwm"
+      },
+      "msg": {
+        "name": "Test Collection",
+        "symbol": "NFTEST",
+        "minter": "archway152cwv9eww2vl5cr9tl2glkj3ec6xgkprfaztq6"
+      }
+    },
+    {
+      "action": "store",
+      "txhash": "FD00C2DCA5A305328745445E13E5B945DB2A5740657257149BE47D07A39A9820",
+      "wasm": {
+        "codeId": 2696,
+        "checksum": "53dacd9938b7bc24450a5e860fd9c7b42052146780283835cabb4b43648ba670"
+      },
+      "contract": {
+        "name": "bnft",
+        "version": "0.1.0"
+      }
+    }
+  ]
+}
